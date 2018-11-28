@@ -1,4 +1,4 @@
-# Ask us anything!
+# Ask us career related questions! - At the moment ,we are well set to help with software industry questions.
 
 [![Ask a Question](http://wes.io/c23W/boo-ya)](../../issues/new)
 
